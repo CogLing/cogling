@@ -1,5 +1,5 @@
-baseURL = "http://dariush.in"
-title = "داریوش"
+baseURL = "http://cogling.ir"
+title = "CogLing"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "fa"
 
 [params.info]
-description = "وبلاگ داریوش در مورد زندگی"
+description = "Cognitive linguistics' hub of Iran"
 title404 = "هیچی پیدا نشد!"
 
 [params.assets]
@@ -30,8 +30,8 @@ customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
-prefix = "نقل مطلب آزاد است"
-holder = "داریوش"
+prefix = "نقل مطلب با ذکر منبع آزاد است."
+holder = "Hossein Azarbaijani"
 startYear = "2018"
 suffix = ""
 
@@ -58,17 +58,17 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "dariubs"
-email = "poshtehani [at] gmail [dot] com"
-facebook = "dariushem"
-github = "dariubs"
-instagram = "dariubs"
-linkedin = "dariubs"
-twitter = "dariubs"
-telegram = "dariubs"
+codepen = ""
+email = "d.carole [at] gmail [dot] com"
+facebook = ""
+github = ""
+instagram = ""
+linkedin = ""
+twitter = ""
+telegram = ""
 
 [params.social.config]
-platforms = ["github","twitter"]
+platforms = []
 
 [taxonomies]
 author = "authors"
@@ -77,12 +77,6 @@ tag = "tags"
 
 [permalinks]
 page = "/:slug/"
-
-# [[menu.main]]
-# name = "خانه"
-# weight = -10
-# identifier = "home"
-# url = "/"
 
 [blackfriday]
 hrefTargetBlank = true

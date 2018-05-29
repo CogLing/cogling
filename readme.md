@@ -1,6 +1,6 @@
-# Dariush
+# CogLing
 
-Simple blog.
+Cognitive Linguistics hub of Iran.
 
 
 ## run
