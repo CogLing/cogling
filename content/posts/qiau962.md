@@ -5,10 +5,13 @@ authors: ["Hossein"]
 categories:
   - دانشگاه
 tags:
-  - کتاب
+  - QIAU
+  - نمرات پایان ترم دانشگاه آزاد قزوین
+  - دکتر حسین آذربایجانی
 draft: false
 ---
 نمرات کتبی آزمون پایان ترم QIAU در نیمسال دوم 96-97 
+#کلاس های سه شنبه
 
-![](http://s8.picofile.com/file/8331402650/Monday_15_18.png)
+![](http://s8.picofile.com/file/8331559242/%D8%B2%D8%A8%D8%A7%D9%86_%D8%AE%D8%A7%D8%B1%D8%AC%D9%87.jpg)
 
